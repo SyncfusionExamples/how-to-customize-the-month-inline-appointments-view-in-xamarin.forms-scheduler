@@ -1,3 +1,3 @@
-# How to customize month inline appointment view in Xamarin.Forms Scheduler?
+# How to customize the month inline appointments view in Xamarin.Forms Scheduler?
 
-This example demonstrates to customize month inline appointment view in Xamarin.Forms Scheduler.
+This example demonstrates to customize the month inline appointments view in Xamarin.Forms Scheduler.
